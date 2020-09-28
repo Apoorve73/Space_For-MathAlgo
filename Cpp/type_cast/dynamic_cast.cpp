@@ -1,0 +1,1 @@
+// This cast is used for handling polymorphism. You only need to use it when you're casting to a derived class. This is exclusively to be used in inheritance when you cast from base class to derived class.
