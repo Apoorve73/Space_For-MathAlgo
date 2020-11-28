@@ -1,0 +1,14 @@
+﻿Assignment: 
+
+Write a class definition of your choice 
+No bigInteger or number class  
+
+Implement your class with :
+ 
+• constructors and destructors  
+• YourClass &operator=( YourClass & ); // Assign one object to another 
+• bool operator==( YourClass & ) const; // compare equal 
+• friend istream &operator>>( istream &, YourClass & ); // Extraction operator 
+• friend istream &operator>>( istream &, YourClass & ); // Insertion operator 
+
+Objective is to use learn operator overloading
